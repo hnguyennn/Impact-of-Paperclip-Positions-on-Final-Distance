@@ -27,3 +27,8 @@ The experiment involved testing whether the independent variables (placements of
 From our experiment, we found that no combination of paperclips on the paper plane had any effect on the final displacement of the plane. The different factors of paperclip
 positions don't seem to individually affect the plane's displacements significantly. We conclude that the paperclip's weight needed to be heavier in relation to the plane itself to
 see any statistically significant change in displacmenent.
+
+## Author
+Hannah Nguyen
+https://github.com/hnguyennn
+https://www.linkedin.com/in/hannah-p-nguyen/
