@@ -1,4 +1,4 @@
-# PSTAT 122 - Design of Experiment Final Project, Spring 2025
+# Impact of Paperclip Positions on Final Distance | Design of Experiments, Spring 2025
 
 ## Overview
 This project was completed as part of the PSTAT 122 course at University of California, Santa Barbara, taught by Professor Peter Chi. The goal of the project was to
